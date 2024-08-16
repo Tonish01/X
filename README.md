@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini Twitter Clone
 
 - Developed a fullstack web application replicating core functionalities of a Twitter platform.
@@ -30,3 +31,6 @@
     - Dotenv
     - Json Web Token(JWT)
     - Cors
+=======
+# X
+>>>>>>> 6633c4e07057c8296168061f77405a61a1f75a0a
